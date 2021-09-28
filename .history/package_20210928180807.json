@@ -1,19 +1,17 @@
 {
 	"name": "typefout",
-	"displayName": "typefout",
+	"displayName": "MistypeAlphabetOrHangul",
 	"description": "Convert Mistyping Roman Alphabet Or Hangul Input",
 	"version": "0.0.1",
-	"publisher": "ismyresume",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
 	"categories": [
 		"Other"
 	],    
-	"icon": "images/typefout.png",
 	"repository": {
         "type": "git",
-        "url": "https://github.com/isMyResume/typefout.git"
+        "url": "https://github.com/sculove/translator.git"
     },
 	"activationEvents": [
 		"onCommand:extension.convertMistype"
